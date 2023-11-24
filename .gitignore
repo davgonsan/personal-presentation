@@ -1,0 +1,24 @@
+# Archivos de imagen
+*.png
+*.jpg
+*.jpeg
+*.gif
+
+# Archivos de Word
+*.doc
+*.docx
+
+# Archivos de Excel
+*.xls
+*.xlsx
+
+# Archivos de PowerPoint
+*.ppt
+*.pptx
+
+# Archivos comprimidos
+*.zip
+*.rar
+
+# Archivos DLL
+*.dll
